@@ -1,6 +1,7 @@
 ## Moro no interior de São Paulo, Brasil.
 Sou estudante e aspirante à programador.
-Sonho em ser um grande Dev de Back-end! Atualmente estudando as linguagens: Java, Javascript e PHP...💭💭
+Sonho em ser um grande Dev de Back-end! Atualmente estudando as linguagens: Java, Javascript e 
+PHP...💭💭
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosouzaramospedroni&show_icons=true&theme=tokyonight&border_radius=15)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosouzaramospedroni&hide_progress=true&theme=tokyonight&border_radius=15)

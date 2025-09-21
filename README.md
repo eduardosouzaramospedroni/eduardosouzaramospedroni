@@ -1,5 +1,5 @@
 ## Prazer, me chamo Eduardo! 👋👋.
-<br><br>
+<br>
 Moro no interior de São Paulo, Brasil.
 <br>
 Sou estudante e aspirante à programador.

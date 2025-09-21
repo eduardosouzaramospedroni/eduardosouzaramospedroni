@@ -1,7 +1,7 @@
 ## Prazer, me chamo Eduardo! 👋👋.
+Moro no interior de São Paulo, Brasil.
 Sou estudante e aspirante à programador.
-Sonho em ser um grande Dev de Back-end! Atualmente estudando as linguagens: Java, Javascript e 
-PHP...💭💭
+Sonho em ser um grande Dev de Back-end! Atualmente estudando as linguagens: Java, Javascript e PHP...💭💭
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosouzaramospedroni&show_icons=true&theme=tokyonight&border_radius=15)
 <br><br>

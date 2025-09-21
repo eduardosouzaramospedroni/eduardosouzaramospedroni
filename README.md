@@ -23,3 +23,16 @@ Atualmente estudando as linguagens: Java, Javascript e PHP...💭💭
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosouzaramospedroni/eduardosouzaramospedroni/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+<style>
+  /* Esconde a seção "Popular repositories" */
+  .js-pinned-repos-reorder-container,
+  .js-pinned-items-reorder-container {
+    display: none !important;
+  }
+
+  /* Esconde a parte de contribuições */
+  .js-yearly-contributions,
+  .ContributionCalendar {
+    display: none !important;
+  }
+</style>

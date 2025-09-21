@@ -1,4 +1,4 @@
-## Estudante de programação: Java, Javascript e PHP.
+## Estudante de programação: Java, Javascript e PHP. 👍🤙
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosouzaramospedroni&show_icons=true&theme=radical)
-<br>
+<br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosouzaramospedroni&stats_format=bytes&theme=radical)

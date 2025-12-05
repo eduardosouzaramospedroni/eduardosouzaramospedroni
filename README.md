@@ -12,4 +12,6 @@ Atualmente estudando as linguagens: Java, Javascript e PHP...💭💭
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
+<img align="right" alt="sonic" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZsNGNpaG5jczFpMG51bWswemx0czlyaTA0MWlmcDdjenNsdWNzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErizhSwfQlDItcJpzw/giphy.gif" width="300px" height="250px">
+<br><br>
 <br><br>

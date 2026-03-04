@@ -1,7 +1,7 @@
 ## Prazer, me chamo Eduardo! 👋👋.
 Moro no interior de São Paulo, Brasil.
 <br>
-Sou estudante e aspirante à programador. Sonho em ser um grande Dev Back-end! 
+Sou estudante de Engenharia de Software e aspirante à programador. Sonho em ser um grande Dev Back-end! 
 <br>
 Atualmente estudando as linguagens: Java, Javascript e PHP...💭💭
 <br><br>
